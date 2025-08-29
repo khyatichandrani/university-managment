@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "University-Management-System", "University-Management-System\", "{35F82E17-2B1C-4726-AC54-509D00719A39}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50720"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Downloads\kashipara.com_university-management-syst\University-Management-System\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50720\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50720"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Downloads\kashipara.com_university-management-syst\University-Management-System\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50720\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50720"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35F82E17-2B1C-4726-AC54-509D00719A39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35F82E17-2B1C-4726-AC54-509D00719A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3F2F92F-E0BE-4FE2-9F44-202B50A672E5}
+	EndGlobalSection
+EndGlobal
